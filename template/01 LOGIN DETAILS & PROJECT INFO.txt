@@ -2,7 +2,7 @@
 
 **Database Name: hmsci**
 
-**Developed by John Sokpo**
+**Developed by Md Akash Rahman**
 
 **Recommended PHP version 5.6**
 
